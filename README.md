@@ -8,7 +8,7 @@ Potreban je Python da bi se skripta pokrenula. Instalacija ispod je za terminal-
 
 ```shell
 cd ~
-git clone
+git clone git@github.com:0x19/netokracija-fizzbuzz.git
 cd netokracija-fizzbuzz
 python fizzbuzz.py
 ```
